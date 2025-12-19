@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchitDash12
-- 👀 I’m interested in Data Structures and Algorithm
-- 🌱 I’m currently learning C Programming Language 
+- 👀 I’m interested in Data Structures and Algorithm, Cloud Computing, Systems Engineering and Blockchain
+- 🌱 I’m currently learning DSA with C along with Golang 
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me architdash1@gmail.com 
 - 😄 Pronouns: He/Him
