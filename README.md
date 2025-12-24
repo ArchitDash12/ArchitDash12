@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ArchitDash12
-- 👀 I’m interested in Data Structures and Algorithm, Cloud Computing, Systems Engineering and Blockchain
-- 🌱 I’m currently learning DSA with C along with Golang 
-- 💞️ I’m looking to collaborate on nothing for now
+- 👋 Hi, I’m Archit Dash
+- 👀 Interested in Cloud Computing, Systems Engineering and Backend Development
+- I know Java, Python, HTML, CSS, C and GO to an intermediate level
+- Trying to master GO for Backend and Cloud 
 - 📫 How to reach me architdash1@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know Java, Python, HTML and CSS all to an Intermediate Level
 
 <!---
 ArchitDash12/ArchitDash12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
