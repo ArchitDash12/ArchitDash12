@@ -1,6 +1,6 @@
 # Hi there, I'm Archit Dash 👋
 
-I’m a 2nd-year Computer Science & Engineering student at KIIT, Bhubaneswar[span_0](start_span), focused on modern web development and software engineering.
+I’m a 2nd-year Computer Science & Engineering student at KIIT, Bhubaneswar, focused on modern web development and software engineering.
 
 I enjoy taking ideas from scratch to production—combining clean UI design with scalable code, and exploring how modern AI workflows can speed up development.
 
@@ -33,6 +33,7 @@ I enjoy taking ideas from scratch to production—combining clean UI design with
 ### 📌 Featured Projects
 
 - **[RareFind](https://rare-find-green.vercel.app/)** — An editorial web directory for discovering quiet architectural spaces, featuring client-side multi-parameter filtering.
+- **[CinePulse](https://cinepulse-phi.vercel.app/)** - Modern Movie Discovery App
 - *(More full-stack projects in the works...)*
 
 ---
