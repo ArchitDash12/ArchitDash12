@@ -41,5 +41,5 @@ I enjoy taking ideas from scratch to production—combining clean UI design with
 ### 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/archit-dash](https://www.linkedin.com/in/archit-dash-02910b3b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Portfolio / Live Demos:** [rare-find-green.vercel.app](https://rare-find-green.vercel.app/)
+- **Portfolio / Live Demos:** [rare-find-green.vercel.app](https://rare-find-green.vercel.app/) | [cinepulse-phi.vercel.app](https://cinepulse-phi.vercel.app/)
 
