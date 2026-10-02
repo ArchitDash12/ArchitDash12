@@ -31,6 +31,7 @@ I enjoy taking ideas from scratch to production—combining clean UI design with
 
 - **[RareFind](https://rare-find-green.vercel.app/)** — An editorial web directory for discovering quiet architectural spaces, featuring client-side multi-parameter filtering.
 - **[CinePulse](https://cinepulse-phi.vercel.app/)** - Modern Movie Discovery App
+- **[Velvet Pour](https://cocktails-gsap-psi.vercel.app/)** - Artisanal Cocktail Experience
 - *(More full-stack projects in the works...)*
 
 ---
@@ -38,5 +39,5 @@ I enjoy taking ideas from scratch to production—combining clean UI design with
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/archit-dash](https://www.linkedin.com/in/archit-dash-02910b3b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Portfolio / Live Demos:** [rare-find-green.vercel.app](https://rare-find-green.vercel.app/) | [cinepulse-phi.vercel.app](https://cinepulse-phi.vercel.app/)
+- **Portfolio / Live Demos:** [rare-find-green.vercel.app](https://rare-find-green.vercel.app/) | [cinepulse-phi.vercel.app](https://cinepulse-phi.vercel.app/) | [cocktails-gsap-psi.vercel.app](https://cocktails-gsap-psi.vercel.app/)
 
