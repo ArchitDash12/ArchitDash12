@@ -33,6 +33,7 @@ I enjoy taking ideas from scratch to production—combining clean UI design with
 - **[CinePulse](https://cinepulse-phi.vercel.app/)** - Modern Movie Discovery App
 - **[Velvet Pour](https://cocktails-gsap-psi.vercel.app/)** - Artisanal Cocktail Experience
 - **[Zentry Clone](https://zentry-archit.vercel.app/)** - Clone of Zentry - A Metagame Layer
+- **[Apple MacBook Page Clone](https://macbook-archit.vercel.app/)** - Apple MacBook Pro M4 Landing Page Clone
 - *(More full-stack projects in the works...)*
 
 ---
@@ -40,5 +41,5 @@ I enjoy taking ideas from scratch to production—combining clean UI design with
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/archit-dash](https://www.linkedin.com/in/archit-dash-02910b3b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Portfolio / Live Demos:** [rare-find-green.vercel.app](https://rare-find-green.vercel.app/) | [cinepulse-phi.vercel.app](https://cinepulse-phi.vercel.app/) | [cocktails-gsap-psi.vercel.app](https://cocktails-gsap-psi.vercel.app/) | [zentry-archit.vercel.app](https://zentry-archit.vercel.app/)
+- **Portfolio / Live Demos:** [rare-find-green.vercel.app](https://rare-find-green.vercel.app/) | [cinepulse-phi.vercel.app](https://cinepulse-phi.vercel.app/) | [cocktails-gsap-psi.vercel.app](https://cocktails-gsap-psi.vercel.app/) | [zentry-archit.vercel.app](https://zentry-archit.vercel.app/) | [macbook-archit.vercel.app](https://macbook-archit.vercel.app/)
 
