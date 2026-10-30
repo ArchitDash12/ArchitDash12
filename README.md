@@ -47,6 +47,9 @@ I enjoy taking ideas from scratch to production, combining interactive UI design
 
 - **[Roomify](https://roomify-bay-gamma.vercel.app/)**
   AI-First Architectural Design & 2D-to-3D Spatial Visualization built using React, Typescript, React Router V7, GSAP and Puter.Js Cloud
+  
+- **[DevEvents](https://devevents-nine-gamma.vercel.app/)**
+  The Hub for Every Developer built using NextJS
 
 - **[Subscription Tracker API](https://github.com/ArchitDash12/subscription-tracker-api)** ([Live API](https://subscription-tracker-api-jwqk.onrender.com/))
   Production-ready REST API built with Node.js, Express, and MongoDB featuring JWT auth, Arcjet rate-limiting, and automated email reminders via Upstash Workflows.
@@ -71,4 +74,4 @@ I enjoy taking ideas from scratch to production, combining interactive UI design
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/archit-dash](https://www.linkedin.com/in/archit-dash-02910b3b4)
-- **Live Projects:** [Roomify](https://roomify-bay-gamma.vercel.app/) | [UniManager](https://classroom-frontend-vert.vercel.app/) | [Subscription Tracker API](https://subscription-tracker-api-jwqk.onrender.com/) | [RareFind](https://rare-find-green.vercel.app/) | [CinePulse](https://cinepulse-phi.vercel.app/) | [Velvet Pour](https://cocktails-gsap-psi.vercel.app/) | [MacBook Pro Clone](https://macbook-archit.vercel.app/)
+- **Live Projects:** [DevEvents](https://devevents-nine-gamma.vercel.app/) | [Roomify](https://roomify-bay-gamma.vercel.app/) | [UniManager](https://classroom-frontend-vert.vercel.app/) | [Subscription Tracker API](https://subscription-tracker-api-jwqk.onrender.com/) | [RareFind](https://rare-find-green.vercel.app/) | [CinePulse](https://cinepulse-phi.vercel.app/) | [Velvet Pour](https://cocktails-gsap-psi.vercel.app/) | [MacBook Pro Clone](https://macbook-archit.vercel.app/)
